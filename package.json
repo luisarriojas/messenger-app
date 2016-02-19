@@ -10,7 +10,7 @@
     "description": "Messenger app for NW.js.",
     "version": "1.0",
     "window": {
-        "icon": "messenger-app.png",
+        "icon": "messenger.png",
         "toolbar": false,
         "frame": true,
         "width": 1366,
